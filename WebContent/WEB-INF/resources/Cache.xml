@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+      <CacheParameters xmlVersion="20110221">  
+        <Basic maxMemSize="4194304" cacheDirectory="D:\Cache"/>  
+        <DBConfig>  
+           <CacheConfig maxElementsInMemory="10" memoryStoreEvictionPolicy="LRU" timeToIdleSeconds="0" timeToLiveSeconds="0"/>  
+        </DBConfig>  
+        <CPTConfig>  
+           <CacheConfig maxElementsInMemory="10" memoryStoreEvictionPolicy="DISK_CPT" timeToIdleSeconds="200" timeToLiveSeconds="40"/>  
+        </CPTConfig>  
+        <AlwaysReloadTpl>  
+            <![CDATA[true]]>  
+        </AlwaysReloadTpl>  
+      </CacheParameters>  

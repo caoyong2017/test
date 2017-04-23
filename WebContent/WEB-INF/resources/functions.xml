@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FunctionManager xmlVersion="20151125" releaseVersion="8.0.0">
+<FunctionDefList>
+<FunctionDef name="gauthority">
+<Class className="com.fr.test.gauthority"/>
+<Description>
+<![CDATA[]]></Description>
+</FunctionDef>
+<FunctionDef name="函数2">
+<Class className="com.fr.function.BinaryImage"/>
+<Description>
+<![CDATA[]]></Description>
+</FunctionDef>
+</FunctionDefList>
+</FunctionManager>
